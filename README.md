@@ -4,7 +4,7 @@
 A web-based profile analyzing tool designed to extract and visualize developer data, metrics, and technical skill distributions.
 
 ## Live Demo
-You can view the live version of DevLens here: [https://dev-lens-v1.vercel.app/](https://dev-lens-v1.vercel.app/)
+You can view the live version of DevLens here: (https://dev-lens-psi.vercel.app/)
 
 ## How to Clone
 To get a copy of this project on your computer, open your **Terminal** or **Command Prompt**, navigate to the folder where you want to keep the project, and run this command:
