@@ -1,14 +1,18 @@
-#DevLens
-A web-based profile analyzing tool designed to extract and visualize developer data, metrics, and technical skill distributions.
 
-## How to Run
-1. Download or clone this repository to your local machine.
+# DevLens
+
+A web-based profile analyzing tool designed to extract and visualize developer data, metrics, and technical skill distributions.
 
 ## How to Clone
 To get a copy of this project on your computer, open your **Terminal** or **Command Prompt**, navigate to the folder where you want to keep the project, and run this command:
-git clone [https://github.com/aryxncodes7/dev-lens.git](https://github.com/aryxncodes7/dev-lens.git)
 
+```bash
+git clone [https://github.com/aryxncodes7/dev-lens.git](https://github.com/aryxncodes7/dev-lens.git)
+How to Run
+Download or clone this repository to your local machine.
 
 Locate the index.html file.
+
 Simply double-click index.html to open it in your default web browser.
+
 (Optional) For live development, use the "Live Server" extension in VS Code.
