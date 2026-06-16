@@ -10,10 +10,11 @@ To get a copy of this project on your computer, open your **Terminal** or **Comm
 git clone [https://github.com/aryxncodes7/dev-lens.git](https://github.com/aryxncodes7/dev-lens.git)
 ```
 #How to Run
-Download or clone this repository to your local machine.
 
-Locate the index.html file.
+1.Download or clone this repository to your local machine.
 
-Simply double-click index.html to open it in your default web browser.
+2.Locate the index.html file.
 
-(Optional) For live development, use the "Live Server" extension in VS Code.
+3.Simply double-click index.html to open it in your default web browser.
+
+4.(Optional) For live development, use the "Live Server" extension in VS Code.
